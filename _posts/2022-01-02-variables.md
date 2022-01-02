@@ -1,3 +1,8 @@
+---
+title: "NOMS DE LES VARIABLES"
+date: 2022-01-02
+---
+
 Requisits dels noms de les variables:
 
 * Han de tindre un significat
